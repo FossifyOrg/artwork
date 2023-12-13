@@ -17,3 +17,14 @@
 
 - Vertical: 76
 - Horizontal: 106
+
+
+## Square
+![square](Logo.png)
+
+## Vertical
+![vertical](Logo-vertical.png)
+
+## Horizontal
+
+![horizontal](Logo-horizontal.png)
