@@ -13,7 +13,7 @@
 - Vertical: 500x600
 - Horizontal: 375x900
 
-## Font sized
+## Font size
 
 - Vertical: 76
 - Horizontal: 106
