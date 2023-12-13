@@ -9,7 +9,7 @@
 
 ## Size:
 
-- Square: 500x500
+- Square: 512x512
 - Vertical: 500x600
 - Horizontal: 375x900
 
@@ -17,7 +17,6 @@
 
 - Vertical: 76
 - Horizontal: 106
-
 
 ## Square
 ![square](Logo.png)
@@ -27,4 +26,4 @@
 
 ## Horizontal
 
-![horizontal](Logo-horizontal.png)
+![horizontal](Logo-horizontal.png) 
