@@ -2,7 +2,7 @@
 
 ## Info
 
-- Background color: #106d20
+- Background color: #38693b
 - Foreground color: #ffffff
 - Font used: Montserrat Heavy
 - Padding: 12.5% on each side
