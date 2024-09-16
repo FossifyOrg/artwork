@@ -21,6 +21,9 @@
 ## Square
 ![square](Logo.png)
 
+## Round
+![round](Logo-round.png)
+
 ## Vertical
 ![vertical](Logo-vertical.png)
 
