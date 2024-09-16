@@ -18,11 +18,11 @@
 - Vertical: 76
 - Horizontal: 106
 
-## Square
-![square](Logo.png)
-
 ## Round
 ![round](Logo-round.png)
+
+## Square
+![square](Logo.png)
 
 ## Vertical
 ![vertical](Logo-vertical.png)
