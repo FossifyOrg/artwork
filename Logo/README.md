@@ -19,14 +19,14 @@
 - Horizontal: 106
 
 ## Round
-![round](Logo-round.png)
+![round](Logo-round.svg)
 
 ## Square
-![square](Logo.png)
+![square](Logo.svg)
 
 ## Vertical
-![vertical](Logo-vertical.png)
+![vertical](Logo-vertical.svg)
 
 ## Horizontal
 
-![horizontal](Logo-horizontal.png) 
+![horizontal](Logo-horizontal.svg) 
